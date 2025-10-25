@@ -70,6 +70,7 @@ cicd-dashboard/
 - GitHub Personal Access Token
 
 **Documentation:**
+- [SETUP_GUIDE.md](SETUP_GUIDE.md) - Complete setup guide with keys and tokens
 - [DOCKER.md](DOCKER.md) - Docker deployment
 - [CORS_SETUP.md](CORS_SETUP.md) - Frontend/Backend integration
 - [frontend/README.md](frontend/README.md) - Angular frontend setup
